@@ -24,7 +24,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.
 global.caption = process.env.CAPTION || global.caption || "© SuhailTechInfo" 
 
 
-global.devs = "" // Developer Contact
+global.devs = "2348100486592" // Devloper Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "";
 
